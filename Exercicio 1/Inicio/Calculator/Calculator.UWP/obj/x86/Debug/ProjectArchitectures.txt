@@ -1,0 +1,2 @@
+C:\Users\Marcelo\Desktop\XaMarin\Xamarin Professional Certification Progress\XAM130\Exercicio 1\Inicio\Calculator\Calculator.UWP\Calculator.UWP.csproj;x86
+C:\Users\Marcelo\Desktop\XaMarin\Xamarin Professional Certification Progress\XAM130\Exercicio 1\Inicio\Calculator\Calculator\Calculator.csproj;neutral
